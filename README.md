@@ -135,5 +135,3 @@ For contributions please create a new branch and submit a pull request for revie
 ## License
 
 Released under the [MIT](./LICENSE) license.
-
-© [Miguel Mota](https://github.com/dan13ram)
