@@ -1,6 +1,6 @@
 <h3 align="center">
   <br />
-  <img src="https://github.com/dan13ram/go-ethereum-hdwallet/assets/168240/20a63a4b-cb97-4e23-8f59-e89d0fd91882" alt="logo" width="600" />
+  <img src="https://github.com/miguelmota/go-ethereum-hdwallet/assets/168240/20a63a4b-cb97-4e23-8f59-e89d0fd91882" alt="logo" width="600" />
   <br />
   <br />
   <br />
@@ -11,7 +11,6 @@
 > Ethereum HD Wallet derivations from [mnemonic] seed in Go (golang). Implements the [go-ethereum](https://github.com/ethereum/go-ethereum) [`accounts.Wallet`](https://github.com/ethereum/go-ethereum/blob/master/accounts/accounts.go) interface.
 
 [![License](http://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/dan13ram/go-ethereum-hdwallet/master/LICENSE)
-[![Build Status](https://travis-ci.org/dan13ram/go-ethereum-hdwallet.svg?branch=master)](https://travis-ci.org/dan13ram/go-ethereum-hdwallet)
 [![Go Report Card](https://goreportcard.com/badge/github.com/dan13ram/go-ethereum-hdwallet?)](https://goreportcard.com/report/github.com/dan13ram/go-ethereum-hdwallet)
 [![GoDoc](https://godoc.org/github.com/dan13ram/go-ethereum-hdwallet?status.svg)](https://godoc.org/github.com/dan13ram/go-ethereum-hdwallet)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
