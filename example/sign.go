@@ -4,10 +4,10 @@ import (
 	"log"
 	"math/big"
 
+	hdwallet "github.com/dan13ram/go-ethereum-hdwallet"
 	"github.com/davecgh/go-spew/spew"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/miguelmota/go-ethereum-hdwallet"
 )
 
 func main() {
